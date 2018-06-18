@@ -63,10 +63,10 @@
   <ItemGroup>
     <Compile Include="Assets\Introducer.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/fmcho/Documents/UnityRepo/Unity/Unity Project_1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/fmcho/OneDrive/Documents/REPOUnity/Unity Project_1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/fmcho/Documents/UnityRepo/Unity/Unity Project_1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/fmcho/OneDrive/Documents/REPOUnity/Unity Project_1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
